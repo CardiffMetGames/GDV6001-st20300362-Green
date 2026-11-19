@@ -9,10 +9,12 @@
 				"G:/st20300362/Generating Virtual Worlds/GDV6001-st20300362-Green/GreenPCG/Content/Levels/Base.umap",
 				"G:/st20300362/Generating Virtual Worlds/GDV6001-st20300362-Green/GreenPCG/Content/M_LandscapeGrass.uasset",
 				"G:/st20300362/Generating Virtual Worlds/GDV6001-st20300362-Green/GreenPCG/Content/VehicleTemplate/Materials/M_Landscape.uasset",
-				"G:/st20300362/Generating Virtual Worlds/GDV6001-st20300362-Green/GreenPCG/Content/T_SatMap_Out.uasset",
 				"G:/st20300362/Generating Virtual Worlds/GDV6001-st20300362-Green/GreenPCG/Content/Landscape/T_SatMap_Out.uasset",
 				"G:/st20300362/Generating Virtual Worlds/GDV6001-st20300362-Green/GreenPCG/Content/Landscape/M_LandscapeGrass.uasset",
-				"G:/st20300362/Generating Virtual Worlds/GDV6001-st20300362-Green/GreenPCG/Content/Landscape/H_SatMap_Out.uasset"
+				"G:/st20300362/Generating Virtual Worlds/GDV6001-st20300362-Green/GreenPCG/Content/Landscape/H_SatMap_Out.uasset",
+				"G:/st20300362/Generating Virtual Worlds/GDV6001-st20300362-Green/GreenPCG/Content/PCG/PCG_Forest.uasset",
+				"G:/st20300362/Generating Virtual Worlds/GDV6001-st20300362-Green/GreenPCG/Content/VehicleTemplate/Blueprints/BP_VehicleAdvGameMode.uasset",
+				"G:/st20300362/Generating Virtual Worlds/GDV6001-st20300362-Green/GreenPCG/Content/T_SatMap_Out.uasset"
 			]
 		}
 	]

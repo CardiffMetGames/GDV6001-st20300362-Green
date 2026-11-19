@@ -1,0 +1,39 @@
+[17168:24732:1119/150627.800:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[17168:24732:1119/150638.328:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[17168:24732:1119/150652.234:ERROR:device_event_log_impl.cc(196)] [15:06:52.177] USB: usb_service_win.cc:73 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 30}) failed: Element not found. (0x490)
+[15924:4648:1119/150656.724:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-9937F5E57296AE82ABF243ADA3763AD9 will be ignored
+[17168:4200:1119/150728.702:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,10]
+[17168:24732:1119/150728.791:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,10]
+[17168:24732:1119/150728.791:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,10]
+[17168:24732:1119/150728.791:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,10]
+[17168:24732:1119/150728.791:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,10]
+[17168:24732:1119/150728.792:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,13]
+[17168:24732:1119/150728.792:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,13]
+[17168:24732:1119/150728.792:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,13]
+[17168:24732:1119/150728.792:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,13]
+[17168:24732:1119/150730.144:WARNING:capture_device_ranking.h(255)] Can't initialize the value of media.audio_input.user_preference_ranking because media.default_audio_capture_device isn't registered or is empty
+[17168:24732:1119/150730.144:WARNING:capture_device_ranking.h(255)] Can't initialize the value of media.video_input.user_preference_ranking because media.default_video_capture_Device isn't registered or is empty
+[24604:11024:1119/150756.032:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(103,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_vec4_float4_int)
+
+[24604:13824:1119/150756.139:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(136,1): warning X4000: use of potentially uninitialized variable (f_i_int_int_int2)
+C:\fakepath(138,1): warning X4000: use of potentially uninitialized variable (f_i_int_int_int2)
+C:\fakepath(174,1): warning X4000: use of potentially uninitialized variable (f_u_int_int_int)
+
+[24604:5112:1119/150756.637:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(166,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel_int)
+
+[24604:3332:1119/150756.640:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(166,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel_int)
+
+[24604:13824:1119/150756.663:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(166,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel_int)
+
+[24604:23284:1119/150756.770:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(303,1): warning X4000: use of potentially uninitialized variable (f_computeTaa)
+
+[24604:9828:1119/150756.772:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(382,11-39): warning X4008: floating point division by zero
+C:\fakepath(382,11-39): warning X4008: floating point division by zero
+
